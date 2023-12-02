@@ -1,0 +1,25 @@
+
+.img{
+   width:200px ; 
+   height: 200px;
+}
+.card{
+    background-color: aquamarine;
+    margin: 10px;
+
+
+}
+div{
+    display: flex;
+}
+    p{
+    margin-right: 20px;
+}
+.item{
+    margin-bottom: 12px;
+    margin-left: 12px;
+}
+.card:hover{
+    transform: scale(1.2);
+
+}
